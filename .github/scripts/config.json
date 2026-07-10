@@ -1,0 +1,73 @@
+{
+  "repo": "Data-Science-Jobs",
+  "owner": "dreamworkhq",
+  "title": "Data Science and Analytics Jobs",
+  "tagline": "Data scientist, data analyst, and analytics roles in the US and worldwide. Every listing is classified by function from the posting itself, so titles vary but the work is data science.",
+  "description": "Data science and analytics jobs updated daily. Data scientist, analyst, and ML roles with salaries, from 400,000+ crawled listings.",
+  "homepage": "https://www.dreamworkhq.com/?utm_source=github&utm_medium=repo_homepage&utm_campaign=gh-data-science-jobs",
+  "topics": [
+    "data-science",
+    "data-analytics",
+    "jobs",
+    "job-search",
+    "data-scientist",
+    "machine-learning",
+    "jobboard",
+    "careers",
+    "tech-jobs",
+    "analytics",
+    "data-analyst",
+    "hiring",
+    "statistics",
+    "data-jobs",
+    "sql"
+  ],
+  "utmCampaign": "gh-data-science-jobs",
+  "keywords": "data science and analytics roles (data scientist, data analyst, ML, analytics engineering)",
+  "sources": [
+    {
+      "function": "Data Science"
+    }
+  ],
+  "usOnly": false,
+  "titleInclude": null,
+  "titleExclude": "director|\\bvp\\b|head of|chief",
+  "maxRows": 600,
+  "minRows": 25,
+  "maxPagesPerSource": 60,
+  "groupBy": null,
+  "showAiColumn": false,
+  "siblings": [
+    {
+      "repo": "dreamworkhq/AI-ML-Jobs",
+      "label": "AI and ML Jobs: AI-first roles, classified daily"
+    },
+    {
+      "repo": "dreamworkhq/Data-Engineering-Jobs",
+      "label": "Data Engineering Jobs: pipelines, warehouses, and data platform roles"
+    },
+    {
+      "repo": "dreamworkhq/Remote-Tech-Jobs",
+      "label": "Remote Tech Jobs: fully remote engineering roles"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How often is this list updated?",
+      "a": "Once a day. A GitHub Action pulls new data science listings from Dreamwork's public API, which crawls company career pages directly (Greenhouse, Lever, Ashby, Workday, and others). Use <kbd>Ctrl</kbd>+<kbd>F</kbd> for scientist, analyst, analytics, or machine learning roles."
+    },
+    {
+      "q": "What counts as a data science job here?",
+      "a": "Roles classified into the data science function by a model that reads each posting: data scientists, data and product analysts, analytics engineers, and applied ML roles. Data engineering has <a href=\"https://github.com/dreamworkhq/Data-Engineering-Jobs\">its own list</a>, and AI-first roles have <a href=\"https://github.com/dreamworkhq/AI-ML-Jobs\">theirs</a>."
+    },
+    {
+      "q": "Where does the salary data come from?",
+      "a": "From the postings themselves. When a posting does not state pay, the column is blank. Nothing is estimated."
+    },
+    {
+      "q": "Can a tool apply to these for me?",
+      "a": "Yes. <a href=\"https://www.dreamworkhq.com/?utm_source=github&utm_medium=faq&utm_campaign=gh-data-science-jobs\">Dreamwork</a> matches your resume against every listing here, tailors each application, and can submit them for you. Seeing your matches is free."
+    }
+  ],
+  "mode": "fresh"
+}
