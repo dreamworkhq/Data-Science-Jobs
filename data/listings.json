@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-08-20T21:03:27.722Z",
+  "generatedAt": "2026-08-20T21:43:17.216Z",
   "source": "https://www.dreamworkhq.com",
   "list": "Data-Science-Jobs",
   "count": 600,
   "listings": [
+    {
+      "id": "32da74cf-4998-40ec-a4c3-f5627ad79931",
+      "title": "Data Scientist I",
+      "company": "Lateral US",
+      "companyDomain": "lateral.io",
+      "location": "New York",
+      "remoteType": "onsite",
+      "salaryMin": 107300,
+      "salaryMax": 193200,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-20T21:38:09.949Z",
+      "firstIndexedAt": "2026-08-20T21:38:13.124Z",
+      "url": "https://www.dreamworkhq.com/job/32da74cf-4998-40ec-a4c3-f5627ad79931?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "3690adcc-fb41-4902-9336-cf000059337e",
+      "title": "Senior Manager, Business Analytics",
+      "company": "Missionlane",
+      "companyDomain": "missionlane.com",
+      "location": "Remote, United States",
+      "remoteType": "remote",
+      "salaryMin": 160000,
+      "salaryMax": 180000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-07T20:03:03.000Z",
+      "firstIndexedAt": "2026-08-20T21:30:16.142Z",
+      "url": "https://www.dreamworkhq.com/job/3690adcc-fb41-4902-9336-cf000059337e?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "7d81e2db-de9e-42a2-9053-3ef5e17000e1",
+      "title": "Statistical Analyst II",
+      "company": "Nebraskastatecareers",
+      "companyDomain": "nebraskastatecareers.com",
+      "location": "Lincoln, NE",
+      "remoteType": "onsite",
+      "salaryMin": 47048,
+      "salaryMax": 47048,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T21:25:03.477Z",
+      "firstIndexedAt": "2026-08-20T21:25:09.230Z",
+      "url": "https://www.dreamworkhq.com/job/7d81e2db-de9e-42a2-9053-3ef5e17000e1?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "42fb9c60-f7f8-4e16-a5ca-a4c389888f24",
+      "title": "Internship Business Intelligence and Data Analyst",
+      "company": "Swisscom",
+      "companyDomain": "swisscom.ch",
+      "location": "Zurich",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-20T21:11:30.285Z",
+      "firstIndexedAt": "2026-08-20T21:11:32.795Z",
+      "url": "https://www.dreamworkhq.com/job/42fb9c60-f7f8-4e16-a5ca-a4c389888f24?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
     {
       "id": "d4260997-4c1a-498e-95db-c54f425dbcf8",
       "title": "Sr Data Scientist",
@@ -260,21 +320,6 @@
       "url": "https://www.dreamworkhq.com/job/75fffcb0-a4fd-4cdf-bc50-b84a9464e16d?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "51b29453-b918-4f02-bb5b-c1139ede712e",
-      "title": "Consultant Senior Data Scientist IA & GenAI (H/F) - IDF",
-      "company": "SopraSteria1",
-      "companyDomain": "soprasteria.com",
-      "location": "Courbevoie, IDF, France",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-20T14:49:00.203Z",
-      "firstIndexedAt": "2026-08-20T20:01:35.030Z",
-      "url": "https://www.dreamworkhq.com/job/51b29453-b918-4f02-bb5b-c1139ede712e?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "26165cf9-8a21-457c-bba2-481b83e2920a",
       "title": "Consultant Senior Data Scientist IA & GenAI (H/F) - Strasbourg",
       "company": "SopraSteria1",
@@ -288,6 +333,21 @@
       "postedAt": "2026-08-20T14:50:22.630Z",
       "firstIndexedAt": "2026-08-20T20:01:35.030Z",
       "url": "https://www.dreamworkhq.com/job/26165cf9-8a21-457c-bba2-481b83e2920a?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "51b29453-b918-4f02-bb5b-c1139ede712e",
+      "title": "Consultant Senior Data Scientist IA & GenAI (H/F) - IDF",
+      "company": "SopraSteria1",
+      "companyDomain": "soprasteria.com",
+      "location": "Courbevoie, IDF, France",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-20T14:49:00.203Z",
+      "firstIndexedAt": "2026-08-20T20:01:35.030Z",
+      "url": "https://www.dreamworkhq.com/job/51b29453-b918-4f02-bb5b-c1139ede712e?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "eed6fec2-b3ae-4c78-99c2-dc4a5a10fd28",
@@ -1035,7 +1095,7 @@
       "salaryMax": 172000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T17:04:20.761Z",
+      "postedAt": "2026-08-20T21:22:39.441Z",
       "firstIndexedAt": "2026-08-20T17:05:00.481Z",
       "url": "https://www.dreamworkhq.com/job/30e4dc4d-982c-4e73-a24b-beb963d8d58e?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
@@ -1475,6 +1535,21 @@
       "url": "https://www.dreamworkhq.com/job/7cb4cd7d-5d4b-46c1-8c9d-7c5be7a7d045?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
+      "id": "39998b50-9bc6-46aa-a5c5-dc1bf5acd4dc",
+      "title": "Senior Data Scientist",
+      "company": "Bennett Data Science",
+      "companyDomain": "bennettdatascience.com",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-20T14:41:54.504Z",
+      "firstIndexedAt": "2026-08-20T15:41:06.399Z",
+      "url": "https://www.dreamworkhq.com/job/39998b50-9bc6-46aa-a5c5-dc1bf5acd4dc?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
       "id": "1847cf63-11a5-4ce1-809e-fe16ba89963f",
       "title": "Lead Data Analyst",
       "company": "Magnetics",
@@ -1488,21 +1563,6 @@
       "postedAt": "2026-08-20T10:29:53.214Z",
       "firstIndexedAt": "2026-08-20T15:41:06.399Z",
       "url": "https://www.dreamworkhq.com/job/1847cf63-11a5-4ce1-809e-fe16ba89963f?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "39998b50-9bc6-46aa-a5c5-dc1bf5acd4dc",
-      "title": "Senior Data Scientist",
-      "company": "Bennett Data Science",
-      "companyDomain": "bennettdatascience.com",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-20T14:41:54.504Z",
-      "firstIndexedAt": "2026-08-20T15:41:06.399Z",
-      "url": "https://www.dreamworkhq.com/job/39998b50-9bc6-46aa-a5c5-dc1bf5acd4dc?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "182f82ab-397c-4f87-b891-397e8334dbd0",
@@ -3095,6 +3155,36 @@
       "url": "https://www.dreamworkhq.com/job/3d5008c2-7a1a-47e3-8821-1c97625d7de7?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
+      "id": "90916f1a-133c-47b4-a883-a63c3ba222f6",
+      "title": "Data Scientist",
+      "company": "Jerry.ai",
+      "companyDomain": "jerry.ai",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": 140000,
+      "salaryMax": 160000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-17T15:57:34.390Z",
+      "firstIndexedAt": "2026-08-20T11:00:20.995Z",
+      "url": "https://www.dreamworkhq.com/job/90916f1a-133c-47b4-a883-a63c3ba222f6?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "187108b2-94d3-45be-9ba0-a58ce142c24d",
+      "title": "Senior Data Scientist",
+      "company": "Jerry.ai",
+      "companyDomain": "jerry.ai",
+      "location": "Remote",
+      "remoteType": "remote",
+      "salaryMin": 160000,
+      "salaryMax": 180000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-17T15:58:58.061Z",
+      "firstIndexedAt": "2026-08-20T11:00:20.995Z",
+      "url": "https://www.dreamworkhq.com/job/187108b2-94d3-45be-9ba0-a58ce142c24d?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
       "id": "167a061d-e35b-4ba6-8182-28d42ee83009",
       "title": "Senior Manager, BizOps & Analytics",
       "company": "Jerry.ai",
@@ -3153,36 +3243,6 @@
       "postedAt": "2026-08-17T16:01:55.908Z",
       "firstIndexedAt": "2026-08-20T11:00:20.995Z",
       "url": "https://www.dreamworkhq.com/job/f60af126-429b-4183-bbdc-4910cdd22d49?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "187108b2-94d3-45be-9ba0-a58ce142c24d",
-      "title": "Senior Data Scientist",
-      "company": "Jerry.ai",
-      "companyDomain": "jerry.ai",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": 160000,
-      "salaryMax": 180000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-17T15:58:58.061Z",
-      "firstIndexedAt": "2026-08-20T11:00:20.995Z",
-      "url": "https://www.dreamworkhq.com/job/187108b2-94d3-45be-9ba0-a58ce142c24d?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "90916f1a-133c-47b4-a883-a63c3ba222f6",
-      "title": "Data Scientist",
-      "company": "Jerry.ai",
-      "companyDomain": "jerry.ai",
-      "location": "Remote",
-      "remoteType": "remote",
-      "salaryMin": 140000,
-      "salaryMax": 160000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-17T15:57:34.390Z",
-      "firstIndexedAt": "2026-08-20T11:00:20.995Z",
-      "url": "https://www.dreamworkhq.com/job/90916f1a-133c-47b4-a883-a63c3ba222f6?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "7ecb29fb-642f-4b2a-9469-4a0a9273d6e9",
@@ -5085,7 +5145,7 @@
       "salaryMax": 140700,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T06:08:40.379Z",
+      "postedAt": "2026-08-19T21:38:09.970Z",
       "firstIndexedAt": "2026-08-20T02:21:25.376Z",
       "url": "https://www.dreamworkhq.com/job/5ad3b8a6-296e-4648-b7bc-56740d0c46c4?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
@@ -5270,21 +5330,6 @@
       "url": "https://www.dreamworkhq.com/job/7b4164f3-eba9-4ff7-814a-b1ba8100e997?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "7f640116-a08c-427b-a080-2c2f3c48323a",
-      "title": "Pricing Analytics Solutions Associate",
-      "company": "JPMorgan Chase",
-      "companyDomain": "careers.jpmorgan.com",
-      "location": "Wilmington, DE, United States",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-04-23T18:04:13.000Z",
-      "firstIndexedAt": "2026-08-20T00:55:23.503Z",
-      "url": "https://www.dreamworkhq.com/job/7f640116-a08c-427b-a080-2c2f3c48323a?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "9504cc20-73e2-419a-a0c7-1a07430b892e",
       "title": "Data Science Vice President - Card Data Analytics",
       "company": "JPMorgan Chase",
@@ -5298,6 +5343,21 @@
       "postedAt": "2026-05-07T02:09:33.000Z",
       "firstIndexedAt": "2026-08-20T00:55:23.503Z",
       "url": "https://www.dreamworkhq.com/job/9504cc20-73e2-419a-a0c7-1a07430b892e?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "7f640116-a08c-427b-a080-2c2f3c48323a",
+      "title": "Pricing Analytics Solutions Associate",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "Wilmington, DE, United States",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-04-23T18:04:13.000Z",
+      "firstIndexedAt": "2026-08-20T00:55:23.503Z",
+      "url": "https://www.dreamworkhq.com/job/7f640116-a08c-427b-a080-2c2f3c48323a?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "16062f39-22ce-4f1f-88b0-83f75d882d3d",
@@ -5345,19 +5405,19 @@
       "url": "https://www.dreamworkhq.com/job/1269ee5c-092e-4b89-97a7-23ab18cb0bce?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "6b7fc250-275a-49b9-8650-2935db0b8401",
-      "title": "Data Analyst - Institutional Research and Analytics (IAR)",
-      "company": "Wgu",
-      "companyDomain": "wgu.edu",
-      "location": "Salt Lake City, UT",
+      "id": "d5c8f25e-ab81-47e1-9b2f-4e8399f691ba",
+      "title": "Applied AI ML - Senior Associate - Machine Learning Engineer",
+      "company": "JPMorgan Chase",
+      "companyDomain": "careers.jpmorgan.com",
+      "location": "LONDON, LONDON, United Kingdom",
       "remoteType": "onsite",
-      "salaryMin": 75200,
-      "salaryMax": 112700,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T20:21:55.127Z",
-      "firstIndexedAt": "2026-08-20T00:51:09.828Z",
-      "url": "https://www.dreamworkhq.com/job/6b7fc250-275a-49b9-8650-2935db0b8401?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-04-24T09:50:48.000Z",
+      "firstIndexedAt": "2026-08-20T00:55:23.503Z",
+      "url": "https://www.dreamworkhq.com/job/d5c8f25e-ab81-47e1-9b2f-4e8399f691ba?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "2e9d6c15-f9ff-4f5b-a7a6-fda8ba2b4f61",
@@ -5373,6 +5433,21 @@
       "postedAt": "2026-08-17T20:21:55.500Z",
       "firstIndexedAt": "2026-08-20T00:51:09.828Z",
       "url": "https://www.dreamworkhq.com/job/2e9d6c15-f9ff-4f5b-a7a6-fda8ba2b4f61?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "6b7fc250-275a-49b9-8650-2935db0b8401",
+      "title": "Data Analyst - Institutional Research and Analytics (IAR)",
+      "company": "Wgu",
+      "companyDomain": "wgu.edu",
+      "location": "Salt Lake City, UT",
+      "remoteType": "onsite",
+      "salaryMin": 75200,
+      "salaryMax": 112700,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T20:21:55.127Z",
+      "firstIndexedAt": "2026-08-20T00:51:09.828Z",
+      "url": "https://www.dreamworkhq.com/job/6b7fc250-275a-49b9-8650-2935db0b8401?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "86aa6340-c054-40ee-b463-e548f181b6cd",
@@ -5405,8 +5480,8 @@
       "url": "https://www.dreamworkhq.com/job/4c30c1ee-5ef8-4c13-a999-84ee08e60531?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "ee6adac4-c8fb-4dfc-bac0-12c7118c07a0",
-      "title": "Data Governance Specialist Role",
+      "id": "1139a232-6fd1-4a69-a8b5-baf27a5d72dd",
+      "title": "Data Inventory Manager Role",
       "company": "Opendatajobs",
       "companyDomain": "opendatajobs.com",
       "location": "Washington, District of Columbia, United States",
@@ -5414,10 +5489,10 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
+      "aiRoleKind": "non_ai",
       "postedAt": "2026-08-08T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T00:30:33.618Z",
-      "url": "https://www.dreamworkhq.com/job/ee6adac4-c8fb-4dfc-bac0-12c7118c07a0?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/1139a232-6fd1-4a69-a8b5-baf27a5d72dd?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "abc2ab5b-a130-4261-bce7-ad1d08fc3adc",
@@ -5433,6 +5508,36 @@
       "postedAt": "2026-08-13T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T00:30:33.618Z",
       "url": "https://www.dreamworkhq.com/job/abc2ab5b-a130-4261-bce7-ad1d08fc3adc?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "ee6adac4-c8fb-4dfc-bac0-12c7118c07a0",
+      "title": "Data Governance Specialist Role",
+      "company": "Opendatajobs",
+      "companyDomain": "opendatajobs.com",
+      "location": "Washington, District of Columbia, United States",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T00:30:33.618Z",
+      "url": "https://www.dreamworkhq.com/job/ee6adac4-c8fb-4dfc-bac0-12c7118c07a0?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "3c7352b4-2285-4f68-abc0-e56e2555ee37",
+      "title": "Data Scientist Role",
+      "company": "Opendatajobs",
+      "companyDomain": "opendatajobs.com",
+      "location": "Washington, District of Columbia, United States",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-08T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-20T00:30:33.618Z",
+      "url": "https://www.dreamworkhq.com/job/3c7352b4-2285-4f68-abc0-e56e2555ee37?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "8b2e7a6f-d360-4435-81ca-3340b4d93a8c",
@@ -5465,8 +5570,8 @@
       "url": "https://www.dreamworkhq.com/job/9d3e9d19-b274-4702-8383-bd24c4ed686d?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "3c7352b4-2285-4f68-abc0-e56e2555ee37",
-      "title": "Data Scientist Role",
+      "id": "1bc58779-3b41-4746-9081-2733f8c19dad",
+      "title": "Data Strategist Role",
       "company": "Opendatajobs",
       "companyDomain": "opendatajobs.com",
       "location": "Washington, District of Columbia, United States",
@@ -5474,10 +5579,10 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
+      "aiRoleKind": "ai_enabled",
       "postedAt": "2026-08-08T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T00:30:33.618Z",
-      "url": "https://www.dreamworkhq.com/job/3c7352b4-2285-4f68-abc0-e56e2555ee37?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/1bc58779-3b41-4746-9081-2733f8c19dad?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "868ac083-13af-42cf-b8ac-503048251148",
@@ -5495,21 +5600,6 @@
       "url": "https://www.dreamworkhq.com/job/868ac083-13af-42cf-b8ac-503048251148?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "1bc58779-3b41-4746-9081-2733f8c19dad",
-      "title": "Data Strategist Role",
-      "company": "Opendatajobs",
-      "companyDomain": "opendatajobs.com",
-      "location": "Washington, District of Columbia, United States",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T00:30:33.618Z",
-      "url": "https://www.dreamworkhq.com/job/1bc58779-3b41-4746-9081-2733f8c19dad?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "8dc01684-4306-476b-ab07-c45f627a0973",
       "title": "Data Analyst Role",
       "company": "Opendatajobs",
@@ -5523,21 +5613,6 @@
       "postedAt": "2026-08-08T00:00:00.000Z",
       "firstIndexedAt": "2026-08-20T00:30:33.618Z",
       "url": "https://www.dreamworkhq.com/job/8dc01684-4306-476b-ab07-c45f627a0973?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "1139a232-6fd1-4a69-a8b5-baf27a5d72dd",
-      "title": "Data Inventory Manager Role",
-      "company": "Opendatajobs",
-      "companyDomain": "opendatajobs.com",
-      "location": "Washington, District of Columbia, United States",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-08T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-20T00:30:33.618Z",
-      "url": "https://www.dreamworkhq.com/job/1139a232-6fd1-4a69-a8b5-baf27a5d72dd?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "4182bbec-702f-49a8-b383-4188c69618c0",
@@ -5583,21 +5658,6 @@
       "postedAt": "2026-08-19T13:58:56.000Z",
       "firstIndexedAt": "2026-08-20T00:01:20.246Z",
       "url": "https://www.dreamworkhq.com/job/52281046-c793-49d8-94d0-eafdfae38bf2?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "f9b9a3b6-bde0-4390-9dda-bce5b308a36f",
-      "title": "Manager - Data Science",
-      "company": "American Express",
-      "companyDomain": "americanexpress.com",
-      "location": "New York, NY, United States",
-      "remoteType": "hybrid",
-      "salaryMin": 103750,
-      "salaryMax": 174750,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T17:27:32.000Z",
-      "firstIndexedAt": "2026-08-20T00:01:20.246Z",
-      "url": "https://www.dreamworkhq.com/job/f9b9a3b6-bde0-4390-9dda-bce5b308a36f?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "080567b6-4613-45cd-9051-640817ce633d",
@@ -5705,21 +5765,6 @@
       "url": "https://www.dreamworkhq.com/job/353b2a98-8b6a-4847-94bf-31cbff14cf3d?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "7f37ec41-8734-4373-ad20-a36789fb0583",
-      "title": "FULL ANALYST, DASHBOARD & ANALYTICS",
-      "company": "Alliance",
-      "companyDomain": "nissan.com",
-      "location": "México City, Ciudad de Mexico - Mexico",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T10:20:58.540Z",
-      "firstIndexedAt": "2026-08-19T22:52:43.593Z",
-      "url": "https://www.dreamworkhq.com/job/7f37ec41-8734-4373-ad20-a36789fb0583?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "9dff9378-66d1-4ce2-88df-65b754bb553e",
       "title": "Analyst 2, Sales Developer",
       "company": "Alliance",
@@ -5733,6 +5778,21 @@
       "postedAt": "2026-08-19T10:20:58.544Z",
       "firstIndexedAt": "2026-08-19T22:52:43.593Z",
       "url": "https://www.dreamworkhq.com/job/9dff9378-66d1-4ce2-88df-65b754bb553e?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "7f37ec41-8734-4373-ad20-a36789fb0583",
+      "title": "FULL ANALYST, DASHBOARD & ANALYTICS",
+      "company": "Alliance",
+      "companyDomain": "nissan.com",
+      "location": "México City, Ciudad de Mexico - Mexico",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T10:20:58.540Z",
+      "firstIndexedAt": "2026-08-19T22:52:43.593Z",
+      "url": "https://www.dreamworkhq.com/job/7f37ec41-8734-4373-ad20-a36789fb0583?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "621aba45-f73b-4994-befa-f86f15004abe",
@@ -5840,6 +5900,21 @@
       "url": "https://www.dreamworkhq.com/job/cf9f609e-7ad3-4d05-8bf1-eb646d9dfee0?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
+      "id": "06765ca2-bf35-464d-b9f8-dd5a5c425175",
+      "title": "Analista de Dados Pleno",
+      "company": "TransUnion",
+      "companyDomain": "transunion.com",
+      "location": "São Paulo",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T19:10:58.900Z",
+      "firstIndexedAt": "2026-08-19T21:35:59.560Z",
+      "url": "https://www.dreamworkhq.com/job/06765ca2-bf35-464d-b9f8-dd5a5c425175?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
       "id": "1897b13c-d2ac-4b93-9e83-a50ecb0c5fed",
       "title": "Consultant- Data Science and Analytics",
       "company": "TransUnion",
@@ -5870,19 +5945,19 @@
       "url": "https://www.dreamworkhq.com/job/f5f442c7-5fd9-434e-afce-afc9d069f5e9?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "06765ca2-bf35-464d-b9f8-dd5a5c425175",
-      "title": "Analista de Dados Pleno",
-      "company": "TransUnion",
-      "companyDomain": "transunion.com",
-      "location": "São Paulo",
+      "id": "f9734c02-f9bb-44da-9305-0e2ee9b61e19",
+      "title": "Stack Data Specialist",
+      "company": "EURES Netherlands",
+      "companyDomain": "workingspirit.nl",
+      "location": "Noord-Holland, Netherlands",
       "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T19:10:58.900Z",
-      "firstIndexedAt": "2026-08-19T21:35:59.560Z",
-      "url": "https://www.dreamworkhq.com/job/06765ca2-bf35-464d-b9f8-dd5a5c425175?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T01:12:21.030Z",
+      "firstIndexedAt": "2026-08-19T21:35:39.240Z",
+      "url": "https://www.dreamworkhq.com/job/f9734c02-f9bb-44da-9305-0e2ee9b61e19?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "ae401496-1f8d-4d4b-ad4b-66a6788c9ad4",
@@ -5898,21 +5973,6 @@
       "postedAt": "2026-08-19T01:11:53.692Z",
       "firstIndexedAt": "2026-08-19T21:35:39.240Z",
       "url": "https://www.dreamworkhq.com/job/ae401496-1f8d-4d4b-ad4b-66a6788c9ad4?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "f9734c02-f9bb-44da-9305-0e2ee9b61e19",
-      "title": "Stack Data Specialist",
-      "company": "EURES Netherlands",
-      "companyDomain": "workingspirit.nl",
-      "location": "Noord-Holland, Netherlands",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T01:12:21.030Z",
-      "firstIndexedAt": "2026-08-19T21:35:39.240Z",
-      "url": "https://www.dreamworkhq.com/job/f9734c02-f9bb-44da-9305-0e2ee9b61e19?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "161ab173-30a3-4916-96f1-b42c827658fe",
@@ -5945,21 +6005,6 @@
       "url": "https://www.dreamworkhq.com/job/311bace9-e242-4400-b475-a202000e3f13?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "568e63d1-b592-4183-8985-e165e2264ea9",
-      "title": "Manager, Business Intelligence, FTV - Experience",
-      "company": "Amazon",
-      "companyDomain": "amazon.com",
-      "location": "IN, KA, Bengaluru",
-      "remoteType": null,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T21:33:46.340Z",
-      "url": "https://www.dreamworkhq.com/job/568e63d1-b592-4183-8985-e165e2264ea9?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "a4ad79ea-f6b6-4a58-8e6b-965edb17df27",
       "title": "Applied Scientist II, AFT AI, Amazon AFT AI",
       "company": "Amazon",
@@ -5973,6 +6018,21 @@
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T21:33:46.340Z",
       "url": "https://www.dreamworkhq.com/job/a4ad79ea-f6b6-4a58-8e6b-965edb17df27?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "568e63d1-b592-4183-8985-e165e2264ea9",
+      "title": "Manager, Business Intelligence, FTV - Experience",
+      "company": "Amazon",
+      "companyDomain": "amazon.com",
+      "location": "IN, KA, Bengaluru",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T21:33:46.340Z",
+      "url": "https://www.dreamworkhq.com/job/568e63d1-b592-4183-8985-e165e2264ea9?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "7711919a-5276-449a-b714-0edab3f99882",
@@ -6020,6 +6080,21 @@
       "url": "https://www.dreamworkhq.com/job/88f09f01-61b4-4df2-9082-d6ac2d218d9d?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
+      "id": "d60530f1-6177-45c5-a629-48245edd7fd7",
+      "title": "Principal, Data Scientist, Agentic AI Systems Engineering & Model Post-Training",
+      "company": "Walmart",
+      "companyDomain": "walmart.com",
+      "location": "(USA) Supply Chain Optimization AR Bentonville Home Office",
+      "remoteType": "onsite",
+      "salaryMin": 110000,
+      "salaryMax": 220000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-08-19T18:37:53.803Z",
+      "firstIndexedAt": "2026-08-19T21:16:38.643Z",
+      "url": "https://www.dreamworkhq.com/job/d60530f1-6177-45c5-a629-48245edd7fd7?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
       "id": "6aa7d222-7b5f-4b3e-98bb-2281e42cc87e",
       "title": "(USA) Senior Manager, Data Science",
       "company": "Walmart",
@@ -6048,21 +6123,6 @@
       "postedAt": "2026-08-19T18:37:52.962Z",
       "firstIndexedAt": "2026-08-19T21:16:38.643Z",
       "url": "https://www.dreamworkhq.com/job/057498d5-9a86-494c-9165-fc07cfa5f61a?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "d60530f1-6177-45c5-a629-48245edd7fd7",
-      "title": "Principal, Data Scientist, Agentic AI Systems Engineering & Model Post-Training",
-      "company": "Walmart",
-      "companyDomain": "walmart.com",
-      "location": "(USA) Supply Chain Optimization AR Bentonville Home Office",
-      "remoteType": "onsite",
-      "salaryMin": 110000,
-      "salaryMax": 220000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-19T18:37:53.803Z",
-      "firstIndexedAt": "2026-08-19T21:16:38.643Z",
-      "url": "https://www.dreamworkhq.com/job/d60530f1-6177-45c5-a629-48245edd7fd7?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "e40e6935-5d2a-46b5-a4e2-018bd7c342d6",
@@ -6285,7 +6345,7 @@
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-20T16:57:59.649Z",
+      "postedAt": "2026-08-20T21:05:27.859Z",
       "firstIndexedAt": "2026-08-19T19:40:23.979Z",
       "url": "https://www.dreamworkhq.com/job/70547b65-f66e-4c89-a6fa-cbc7fb97a413?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
@@ -6318,6 +6378,21 @@
       "postedAt": "2026-08-19T08:23:44.000Z",
       "firstIndexedAt": "2026-08-19T19:33:22.575Z",
       "url": "https://www.dreamworkhq.com/job/0ea31045-eac7-4e16-9440-942c1e265b4f?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "e3a288ba-9f56-4471-9c02-25fc1c9267a7",
+      "title": "Manager SA",
+      "company": "EXL Talent Acquisition Team",
+      "companyDomain": "exl.com",
+      "location": "South Africa",
+      "remoteType": null,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T11:33:55.000Z",
+      "firstIndexedAt": "2026-08-19T19:33:15.481Z",
+      "url": "https://www.dreamworkhq.com/job/e3a288ba-9f56-4471-9c02-25fc1c9267a7?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "5f8bdde4-97bc-4188-bee0-1b565905b237",
@@ -6365,7 +6440,7 @@
       "url": "https://www.dreamworkhq.com/job/e49fa299-5a79-4bb9-9887-8aea602ac580?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "6fb8c18d-3270-4109-b57c-142022b819ee",
+      "id": "71742f12-bb16-445e-97c3-64336c966512",
       "title": "Data Scientist",
       "company": "eBay",
       "companyDomain": "ebay.com",
@@ -6374,25 +6449,10 @@
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T17:24:03.774Z",
-      "firstIndexedAt": "2026-08-19T19:05:52.102Z",
-      "url": "https://www.dreamworkhq.com/job/6fb8c18d-3270-4109-b57c-142022b819ee?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "525d6e50-95e0-4aef-9a82-acb3760f3208",
-      "title": "Consultant Data Engineer - Google Cloud (GCP)",
-      "company": "Sia",
-      "companyDomain": "sia-partners.com",
-      "location": "Rotterdam, Amsterdam, , Netherlands",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
       "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T18:19:17.334Z",
-      "firstIndexedAt": "2026-08-19T19:01:07.504Z",
-      "url": "https://www.dreamworkhq.com/job/525d6e50-95e0-4aef-9a82-acb3760f3208?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "postedAt": "2026-08-19T17:24:03.849Z",
+      "firstIndexedAt": "2026-08-19T19:05:52.102Z",
+      "url": "https://www.dreamworkhq.com/job/71742f12-bb16-445e-97c3-64336c966512?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "d3474814-0fd9-4fa8-80ee-6df4c4b649c3",
@@ -6408,6 +6468,21 @@
       "postedAt": "2026-08-19T18:18:39.292Z",
       "firstIndexedAt": "2026-08-19T19:01:07.504Z",
       "url": "https://www.dreamworkhq.com/job/d3474814-0fd9-4fa8-80ee-6df4c4b649c3?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "525d6e50-95e0-4aef-9a82-acb3760f3208",
+      "title": "Consultant Data Engineer - Google Cloud (GCP)",
+      "company": "Sia",
+      "companyDomain": "sia-partners.com",
+      "location": "Rotterdam, Amsterdam, , Netherlands",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T18:19:17.334Z",
+      "firstIndexedAt": "2026-08-19T19:01:07.504Z",
+      "url": "https://www.dreamworkhq.com/job/525d6e50-95e0-4aef-9a82-acb3760f3208?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "5942487a-b009-44ca-b110-7a3a358c7818",
@@ -6515,21 +6590,6 @@
       "url": "https://www.dreamworkhq.com/job/a89b27e2-e8f9-4a9c-a9d4-938c0b7e8e29?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "e2489a0d-1689-49b5-9df5-dfa9102c70a0",
-      "title": "Lead Data Manager/SAS programmer (Job 1425)",
-      "company": "Dlhcorporation",
-      "companyDomain": "dlhcorporation.com",
-      "location": "United States - Remote",
-      "remoteType": "remote",
-      "salaryMin": 130000,
-      "salaryMax": 175000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-17T20:19:51.000Z",
-      "firstIndexedAt": "2026-08-19T18:45:44.477Z",
-      "url": "https://www.dreamworkhq.com/job/e2489a0d-1689-49b5-9df5-dfa9102c70a0?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "69c3039b-626e-4f90-8c46-47413bde224d",
       "title": "Senior Data Manager/REDCap Programmer (Job 1423)",
       "company": "Dlhcorporation",
@@ -6543,6 +6603,21 @@
       "postedAt": "2026-08-17T20:18:52.000Z",
       "firstIndexedAt": "2026-08-19T18:45:44.477Z",
       "url": "https://www.dreamworkhq.com/job/69c3039b-626e-4f90-8c46-47413bde224d?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "e2489a0d-1689-49b5-9df5-dfa9102c70a0",
+      "title": "Lead Data Manager/SAS programmer (Job 1425)",
+      "company": "Dlhcorporation",
+      "companyDomain": "dlhcorporation.com",
+      "location": "United States - Remote",
+      "remoteType": "remote",
+      "salaryMin": 130000,
+      "salaryMax": 175000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-17T20:19:51.000Z",
+      "firstIndexedAt": "2026-08-19T18:45:44.477Z",
+      "url": "https://www.dreamworkhq.com/job/e2489a0d-1689-49b5-9df5-dfa9102c70a0?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "8d420828-117e-4d5b-a383-f95f6aeedeb3",
@@ -6560,64 +6635,19 @@
       "url": "https://www.dreamworkhq.com/job/8d420828-117e-4d5b-a383-f95f6aeedeb3?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "4d13453f-1cb4-402e-b1e7-436b8a6fceac",
+      "id": "1c9cb80d-ccd4-4ade-8fe0-bbfbf16ca3b8",
       "title": "Senior Data Scientist (AI Engineering Focus)",
       "company": "N-iX",
       "companyDomain": "n-ix.com",
-      "location": "Portugal",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-09T14:28:42.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/4d13453f-1cb4-402e-b1e7-436b8a6fceac?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "07635888-06ae-41d7-89f4-457272c4be5b",
-      "title": "Senior Data Scientist (AI Engineering Focus)",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Spain",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-09T14:28:01.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/07635888-06ae-41d7-89f4-457272c4be5b?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "4b238189-fd26-4943-8606-755e7f9daf89",
-      "title": "Senior/Lead Data Scientist (Toronto time zone)",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "European Union; LATAM; Ukraine",
+      "location": "Poland",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-08-18T09:39:54.000Z",
+      "postedAt": "2026-07-03T21:28:01.000Z",
       "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/4b238189-fd26-4943-8606-755e7f9daf89?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "33ed7cdb-88da-452c-b6d5-cd2bfb183dd4",
-      "title": "Senior/Lead Data Analyst - Marketing",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "European Union; Ukraine",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-05T11:07:07.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/33ed7cdb-88da-452c-b6d5-cd2bfb183dd4?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/1c9cb80d-ccd4-4ade-8fe0-bbfbf16ca3b8?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "83e63a00-ef06-44dd-b8b6-3222598af07d",
@@ -6635,19 +6665,94 @@
       "url": "https://www.dreamworkhq.com/job/83e63a00-ef06-44dd-b8b6-3222598af07d?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "1c9cb80d-ccd4-4ade-8fe0-bbfbf16ca3b8",
-      "title": "Senior Data Scientist (AI Engineering Focus)",
+      "id": "33ed7cdb-88da-452c-b6d5-cd2bfb183dd4",
+      "title": "Senior/Lead Data Analyst - Marketing",
       "company": "N-iX",
       "companyDomain": "n-ix.com",
-      "location": "Poland",
+      "location": "European Union; Ukraine",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-08-05T11:07:07.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/33ed7cdb-88da-452c-b6d5-cd2bfb183dd4?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "4b238189-fd26-4943-8606-755e7f9daf89",
+      "title": "Senior/Lead Data Scientist (Toronto time zone)",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "European Union; LATAM; Ukraine",
       "remoteType": "remote",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "ai_first",
-      "postedAt": "2026-07-03T21:28:01.000Z",
+      "postedAt": "2026-08-18T09:39:54.000Z",
       "firstIndexedAt": "2026-08-19T18:33:09.525Z",
-      "url": "https://www.dreamworkhq.com/job/1c9cb80d-ccd4-4ade-8fe0-bbfbf16ca3b8?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/4b238189-fd26-4943-8606-755e7f9daf89?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "693c3fc6-ee11-4abc-9eb6-d9c95e968c50",
+      "title": "Senior Data Analytics Engineer",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "European Union",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-05T14:08:33.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/693c3fc6-ee11-4abc-9eb6-d9c95e968c50?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "07635888-06ae-41d7-89f4-457272c4be5b",
+      "title": "Senior Data Scientist (AI Engineering Focus)",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Spain",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-09T14:28:01.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/07635888-06ae-41d7-89f4-457272c4be5b?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "4d13453f-1cb4-402e-b1e7-436b8a6fceac",
+      "title": "Senior Data Scientist (AI Engineering Focus)",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Portugal",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_first",
+      "postedAt": "2026-07-09T14:28:42.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:09.525Z",
+      "url": "https://www.dreamworkhq.com/job/4d13453f-1cb4-402e-b1e7-436b8a6fceac?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "f1139f4e-ea9d-4ccb-b655-4d5f341fa9b4",
+      "title": "Lead Data Analyst (Marketing Performance)",
+      "company": "N-iX",
+      "companyDomain": "n-ix.com",
+      "location": "Brazil",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-05-07T09:44:02.000Z",
+      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
+      "url": "https://www.dreamworkhq.com/job/f1139f4e-ea9d-4ccb-b655-4d5f341fa9b4?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "0d7e0777-3814-4e1d-9c47-c0188495208f",
@@ -6678,21 +6783,6 @@
       "postedAt": "2026-05-07T09:42:59.000Z",
       "firstIndexedAt": "2026-08-19T18:33:08.193Z",
       "url": "https://www.dreamworkhq.com/job/82369fa8-246c-4c26-a660-4d03bddf5968?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "f1139f4e-ea9d-4ccb-b655-4d5f341fa9b4",
-      "title": "Lead Data Analyst (Marketing Performance)",
-      "company": "N-iX",
-      "companyDomain": "n-ix.com",
-      "location": "Brazil",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-05-07T09:44:02.000Z",
-      "firstIndexedAt": "2026-08-19T18:33:08.193Z",
-      "url": "https://www.dreamworkhq.com/job/f1139f4e-ea9d-4ccb-b655-4d5f341fa9b4?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "53eb5fa1-9ecc-4428-a58b-4c0eda3c8286",
@@ -6860,21 +6950,6 @@
       "url": "https://www.dreamworkhq.com/job/1580c175-5ae8-4c68-a30a-eea0c990a420?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "7ee40fc3-d834-4738-b7ee-76bbc1591eb8",
-      "title": "Transaction Monitoring analytics - AVP",
-      "company": "Barclays",
-      "companyDomain": "barclays.co.uk",
-      "location": "Gurugram, DLF Downtown",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T17:57:04.792Z",
-      "firstIndexedAt": "2026-08-19T17:09:51.556Z",
-      "url": "https://www.dreamworkhq.com/job/7ee40fc3-d834-4738-b7ee-76bbc1591eb8?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "6939a7be-0df3-4f7b-bb14-758db35d6718",
       "title": "Data Analyst",
       "company": "Barclays",
@@ -6950,21 +7025,6 @@
       "url": "https://www.dreamworkhq.com/job/9fb4bafc-a25b-4268-8bf6-7f3c879f4645?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "93cc8a4c-0f8a-4f27-ba64-c6a17c48afc7",
-      "title": "Data engineer",
-      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
-      "companyDomain": "goflow.be",
-      "location": "Limburg, Belgium",
-      "remoteType": "onsite",
-      "salaryMin": 48000,
-      "salaryMax": 73000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T13:15:38.008Z",
-      "firstIndexedAt": "2026-08-19T17:01:34.236Z",
-      "url": "https://www.dreamworkhq.com/job/93cc8a4c-0f8a-4f27-ba64-c6a17c48afc7?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "166c196a-cbc0-43b0-ba0e-8a8ed57ef5ee",
       "title": "Junior data analist & CRM Support",
       "company": "Start People NV",
@@ -6978,6 +7038,21 @@
       "postedAt": "2026-08-19T13:15:46.849Z",
       "firstIndexedAt": "2026-08-19T17:01:34.236Z",
       "url": "https://www.dreamworkhq.com/job/166c196a-cbc0-43b0-ba0e-8a8ed57ef5ee?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "93cc8a4c-0f8a-4f27-ba64-c6a17c48afc7",
+      "title": "Data engineer",
+      "company": "HOUSE OF RECRUITMENT SOLUTIONS BV",
+      "companyDomain": "goflow.be",
+      "location": "Limburg, Belgium",
+      "remoteType": "onsite",
+      "salaryMin": 48000,
+      "salaryMax": 73000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T13:15:38.008Z",
+      "firstIndexedAt": "2026-08-19T17:01:34.236Z",
+      "url": "https://www.dreamworkhq.com/job/93cc8a4c-0f8a-4f27-ba64-c6a17c48afc7?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "9583d54d-8aa2-4af2-9f27-ad2be92ba740",
@@ -6995,51 +7070,6 @@
       "url": "https://www.dreamworkhq.com/job/9583d54d-8aa2-4af2-9f27-ad2be92ba740?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "92681724-c34f-460f-ac17-c29f1fb53df2",
-      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
-      "company": "Culmen",
-      "companyDomain": "culmen.com",
-      "location": "Joint Base Lewis-McChord, WA, US",
-      "remoteType": "onsite",
-      "salaryMin": 120000,
-      "salaryMax": 150000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-12T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
-      "url": "https://www.dreamworkhq.com/job/92681724-c34f-460f-ac17-c29f1fb53df2?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "1c5102cb-fbd2-4204-bd9b-8fb2bf2bde5a",
-      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
-      "company": "Culmen",
-      "companyDomain": "culmen.com",
-      "location": "St. Louis, MO, US",
-      "remoteType": "onsite",
-      "salaryMin": 120000,
-      "salaryMax": 150000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-12T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
-      "url": "https://www.dreamworkhq.com/job/1c5102cb-fbd2-4204-bd9b-8fb2bf2bde5a?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "4fdc6140-4618-48bf-9030-8ce51cb3c1ec",
-      "title": "Data Scientist / Data Analyst (OIG)",
-      "company": "Culmen",
-      "companyDomain": "culmen.com",
-      "location": "Washington, DC, US",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-07-08T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
-      "url": "https://www.dreamworkhq.com/job/4fdc6140-4618-48bf-9030-8ce51cb3c1ec?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "6aeec5de-882b-42e4-b63c-53088ca124bc",
       "title": "Sr. Exploitation Specialist/Data Steward (TS/SCI)",
       "company": "Culmen",
@@ -7055,34 +7085,19 @@
       "url": "https://www.dreamworkhq.com/job/6aeec5de-882b-42e4-b63c-53088ca124bc?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "581c37d8-b291-4d0b-bda1-398dd408e579",
-      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
+      "id": "ce2b1ad4-0698-4695-b0ce-c962a166fde5",
+      "title": "Mid-Level Exploitation Specialist/Data Scientist (TS/SCI)",
       "company": "Culmen",
       "companyDomain": "culmen.com",
-      "location": "Springfield, VA, US",
+      "location": "Joint Base Lewis-McChord, WA, US",
       "remoteType": "onsite",
-      "salaryMin": 120000,
-      "salaryMax": 150000,
+      "salaryMin": 105000,
+      "salaryMax": 130000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
       "postedAt": "2026-08-12T04:00:00.000Z",
       "firstIndexedAt": "2026-08-19T16:48:12.967Z",
-      "url": "https://www.dreamworkhq.com/job/581c37d8-b291-4d0b-bda1-398dd408e579?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "9a8cfe17-b57b-4ec3-8f48-09a7cf7a03af",
-      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
-      "company": "Culmen",
-      "companyDomain": "culmen.com",
-      "location": "Sneads Ferry, NC, US",
-      "remoteType": "onsite",
-      "salaryMin": 120000,
-      "salaryMax": 150000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-12T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
-      "url": "https://www.dreamworkhq.com/job/9a8cfe17-b57b-4ec3-8f48-09a7cf7a03af?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/ce2b1ad4-0698-4695-b0ce-c962a166fde5?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "ac647874-81a6-4a4f-afc3-b7b22e310916",
@@ -7115,34 +7130,79 @@
       "url": "https://www.dreamworkhq.com/job/f5e9b3fe-0995-4de7-a04e-76378786a0fa?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "ce2b1ad4-0698-4695-b0ce-c962a166fde5",
-      "title": "Mid-Level Exploitation Specialist/Data Scientist (TS/SCI)",
+      "id": "9a8cfe17-b57b-4ec3-8f48-09a7cf7a03af",
+      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
       "company": "Culmen",
       "companyDomain": "culmen.com",
-      "location": "Joint Base Lewis-McChord, WA, US",
+      "location": "Sneads Ferry, NC, US",
       "remoteType": "onsite",
-      "salaryMin": 105000,
-      "salaryMax": 130000,
+      "salaryMin": 120000,
+      "salaryMax": 150000,
       "salaryPeriod": "annual",
       "aiRoleKind": "ai_explicit",
       "postedAt": "2026-08-12T04:00:00.000Z",
       "firstIndexedAt": "2026-08-19T16:48:12.967Z",
-      "url": "https://www.dreamworkhq.com/job/ce2b1ad4-0698-4695-b0ce-c962a166fde5?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/9a8cfe17-b57b-4ec3-8f48-09a7cf7a03af?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "25b8c30f-a34f-476c-8b5e-d78675244b8b",
-      "title": "Data Scientist, Professional Senior",
-      "company": "Zebra",
-      "companyDomain": "zebra.com",
-      "location": "USA - Lincolnshire, Illinois",
-      "remoteType": "hybrid",
-      "salaryMin": 108960,
-      "salaryMax": 163440,
+      "id": "1c5102cb-fbd2-4204-bd9b-8fb2bf2bde5a",
+      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
+      "company": "Culmen",
+      "companyDomain": "culmen.com",
+      "location": "St. Louis, MO, US",
+      "remoteType": "onsite",
+      "salaryMin": 120000,
+      "salaryMax": 150000,
       "salaryPeriod": "annual",
-      "aiRoleKind": "ai_first",
-      "postedAt": null,
-      "firstIndexedAt": "2026-08-19T16:47:56.841Z",
-      "url": "https://www.dreamworkhq.com/job/25b8c30f-a34f-476c-8b5e-d78675244b8b?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-12T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
+      "url": "https://www.dreamworkhq.com/job/1c5102cb-fbd2-4204-bd9b-8fb2bf2bde5a?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "581c37d8-b291-4d0b-bda1-398dd408e579",
+      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
+      "company": "Culmen",
+      "companyDomain": "culmen.com",
+      "location": "Springfield, VA, US",
+      "remoteType": "onsite",
+      "salaryMin": 120000,
+      "salaryMax": 150000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-12T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
+      "url": "https://www.dreamworkhq.com/job/581c37d8-b291-4d0b-bda1-398dd408e579?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "92681724-c34f-460f-ac17-c29f1fb53df2",
+      "title": "Sr. Exploitation Specialist/Data Scientist (TS/SCI)",
+      "company": "Culmen",
+      "companyDomain": "culmen.com",
+      "location": "Joint Base Lewis-McChord, WA, US",
+      "remoteType": "onsite",
+      "salaryMin": 120000,
+      "salaryMax": 150000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-12T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
+      "url": "https://www.dreamworkhq.com/job/92681724-c34f-460f-ac17-c29f1fb53df2?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "4fdc6140-4618-48bf-9030-8ce51cb3c1ec",
+      "title": "Data Scientist / Data Analyst (OIG)",
+      "company": "Culmen",
+      "companyDomain": "culmen.com",
+      "location": "Washington, DC, US",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-07-08T04:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T16:48:12.967Z",
+      "url": "https://www.dreamworkhq.com/job/4fdc6140-4618-48bf-9030-8ce51cb3c1ec?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "da56cdb3-77c9-4a82-905e-45f7c7824c1e",
@@ -7158,6 +7218,21 @@
       "postedAt": null,
       "firstIndexedAt": "2026-08-19T16:47:56.841Z",
       "url": "https://www.dreamworkhq.com/job/da56cdb3-77c9-4a82-905e-45f7c7824c1e?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "25b8c30f-a34f-476c-8b5e-d78675244b8b",
+      "title": "Data Scientist, Professional Senior",
+      "company": "Zebra",
+      "companyDomain": "zebra.com",
+      "location": "USA - Lincolnshire, Illinois",
+      "remoteType": "hybrid",
+      "salaryMin": 108960,
+      "salaryMax": 163440,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_first",
+      "postedAt": null,
+      "firstIndexedAt": "2026-08-19T16:47:56.841Z",
+      "url": "https://www.dreamworkhq.com/job/25b8c30f-a34f-476c-8b5e-d78675244b8b?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "e7a19199-1d5a-4e5e-8078-aa5d11daac1e",
@@ -7370,21 +7445,6 @@
       "url": "https://www.dreamworkhq.com/job/8fa43b48-96da-4339-a754-e79b15badfe8?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "e826949f-8981-4284-83ff-5e3c550d7bc9",
-      "title": "Data Analyst",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Doha, QA",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-06-29T06:04:16.000Z",
-      "firstIndexedAt": "2026-08-19T15:46:26.071Z",
-      "url": "https://www.dreamworkhq.com/job/e826949f-8981-4284-83ff-5e3c550d7bc9?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "c132889f-ccec-4968-8281-9d6549483552",
       "title": "Data Analyst - REMOTE",
       "company": "Qureosinc",
@@ -7428,6 +7488,21 @@
       "postedAt": "2026-06-29T13:46:46.000Z",
       "firstIndexedAt": "2026-08-19T15:46:26.071Z",
       "url": "https://www.dreamworkhq.com/job/14c22056-74e6-4165-ba3a-5b37ab969b98?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "e826949f-8981-4284-83ff-5e3c550d7bc9",
+      "title": "Data Analyst",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": "Doha, QA",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-06-29T06:04:16.000Z",
+      "firstIndexedAt": "2026-08-19T15:46:26.071Z",
+      "url": "https://www.dreamworkhq.com/job/e826949f-8981-4284-83ff-5e3c550d7bc9?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "bd4372cc-87e1-403e-9399-63c034090137",
@@ -7520,21 +7595,6 @@
       "url": "https://www.dreamworkhq.com/job/717f4181-dc42-4152-b215-6cbd7cce320e?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "d6bfa5ce-62e3-4c42-b626-2f275027eb27",
-      "title": "Trainee Data Analyst",
-      "company": "Finlay Jude Associates Limited",
-      "companyDomain": null,
-      "location": "Horsham",
-      "remoteType": "onsite",
-      "salaryMin": 34000,
-      "salaryMax": 34000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T15:32:08.633Z",
-      "url": "https://www.dreamworkhq.com/job/d6bfa5ce-62e3-4c42-b626-2f275027eb27?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "6777611b-bdc8-4fbe-b2cd-e6780bd3fcff",
       "title": "Junior Data Analyst",
       "company": "Nigel Wright Group",
@@ -7550,6 +7610,36 @@
       "url": "https://www.dreamworkhq.com/job/6777611b-bdc8-4fbe-b2cd-e6780bd3fcff?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
+      "id": "d6bfa5ce-62e3-4c42-b626-2f275027eb27",
+      "title": "Trainee Data Analyst",
+      "company": "Finlay Jude Associates Limited",
+      "companyDomain": null,
+      "location": "Horsham",
+      "remoteType": "onsite",
+      "salaryMin": 34000,
+      "salaryMax": 34000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T15:32:08.633Z",
+      "url": "https://www.dreamworkhq.com/job/d6bfa5ce-62e3-4c42-b626-2f275027eb27?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "2017bffb-9a51-473a-acf1-9fae51949bd5",
+      "title": "Trainee Data Analyst",
+      "company": "ITOL Recruit",
+      "companyDomain": "itolrecruit.com",
+      "location": "G11AB",
+      "remoteType": "hybrid",
+      "salaryMin": 38000,
+      "salaryMax": 102000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T15:32:08.148Z",
+      "url": "https://www.dreamworkhq.com/job/2017bffb-9a51-473a-acf1-9fae51949bd5?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
       "id": "db1a2751-ff91-4b3f-bfa2-856c03f882c2",
       "title": "Senior Data Analyst",
       "company": "SF Partners",
@@ -7563,21 +7653,6 @@
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T15:32:08.148Z",
       "url": "https://www.dreamworkhq.com/job/db1a2751-ff91-4b3f-bfa2-856c03f882c2?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "9597be25-a856-4a19-b68a-d12bdfd6a72e",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "companyDomain": "itolrecruit.com",
-      "location": "RG214AH",
-      "remoteType": "hybrid",
-      "salaryMin": 38000,
-      "salaryMax": 64000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T15:32:08.148Z",
-      "url": "https://www.dreamworkhq.com/job/9597be25-a856-4a19-b68a-d12bdfd6a72e?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "e30413f5-26c4-4598-8718-0ba2e874fca5",
@@ -7610,36 +7685,6 @@
       "url": "https://www.dreamworkhq.com/job/7eb1e630-2626-46c8-b36b-2b195a3ee27c?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "2017bffb-9a51-473a-acf1-9fae51949bd5",
-      "title": "Trainee Data Analyst",
-      "company": "ITOL Recruit",
-      "companyDomain": "itolrecruit.com",
-      "location": "G11AB",
-      "remoteType": "hybrid",
-      "salaryMin": 38000,
-      "salaryMax": 102000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T15:32:08.148Z",
-      "url": "https://www.dreamworkhq.com/job/2017bffb-9a51-473a-acf1-9fae51949bd5?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "0c35f13c-d1a2-48a1-af77-4eb125edb0e1",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "companyDomain": "itolrecruit.com",
-      "location": "SS140DF",
-      "remoteType": "hybrid",
-      "salaryMin": 38000,
-      "salaryMax": 64000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T15:32:07.228Z",
-      "url": "https://www.dreamworkhq.com/job/0c35f13c-d1a2-48a1-af77-4eb125edb0e1?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "145479c8-a9dc-4ba3-a223-2ecfb81d1227",
       "title": "Trainee Data Analyst",
       "company": "ITOL Recruit",
@@ -7655,6 +7700,21 @@
       "url": "https://www.dreamworkhq.com/job/145479c8-a9dc-4ba3-a223-2ecfb81d1227?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
+      "id": "08c20069-be71-430c-9713-f763ac8dab6d",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "companyDomain": "itolrecruit.com",
+      "location": "MK93HQ",
+      "remoteType": "hybrid",
+      "salaryMin": 38000,
+      "salaryMax": 64000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T15:32:07.228Z",
+      "url": "https://www.dreamworkhq.com/job/08c20069-be71-430c-9713-f763ac8dab6d?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
       "id": "fb1ff385-1a74-46f1-af1b-42d8ef6f6fd6",
       "title": "Trainee Data Analyst",
       "company": "ITOL Recruit",
@@ -7668,6 +7728,21 @@
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T15:32:07.228Z",
       "url": "https://www.dreamworkhq.com/job/fb1ff385-1a74-46f1-af1b-42d8ef6f6fd6?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "0c35f13c-d1a2-48a1-af77-4eb125edb0e1",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "companyDomain": "itolrecruit.com",
+      "location": "SS140DF",
+      "remoteType": "hybrid",
+      "salaryMin": 38000,
+      "salaryMax": 64000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T15:32:07.228Z",
+      "url": "https://www.dreamworkhq.com/job/0c35f13c-d1a2-48a1-af77-4eb125edb0e1?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "72501d3f-0cff-45ba-959c-8c408d16cfab",
@@ -7760,21 +7835,6 @@
       "url": "https://www.dreamworkhq.com/job/f753c6bc-04b6-42f9-83ad-74a585d9094d?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "35d8bdc8-dde2-4116-b7fc-dac4f7794f56",
-      "title": "Lead Data Scientist - Treasury Markets Quant",
-      "company": "Wise",
-      "companyDomain": "wise.com",
-      "location": "London, , United Kingdom",
-      "remoteType": "hybrid",
-      "salaryMin": 115000,
-      "salaryMax": 161000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T14:59:07.167Z",
-      "firstIndexedAt": "2026-08-19T15:02:29.337Z",
-      "url": "https://www.dreamworkhq.com/job/35d8bdc8-dde2-4116-b7fc-dac4f7794f56?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "da26a567-0f8e-4680-b3ca-78cebf8f0da4",
       "title": "Lead Product Analyst - Business Operations - Wise Business",
       "company": "Wise",
@@ -7788,6 +7848,21 @@
       "postedAt": "2026-08-19T14:41:20.264Z",
       "firstIndexedAt": "2026-08-19T15:02:29.337Z",
       "url": "https://www.dreamworkhq.com/job/da26a567-0f8e-4680-b3ca-78cebf8f0da4?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "35d8bdc8-dde2-4116-b7fc-dac4f7794f56",
+      "title": "Lead Data Scientist - Treasury Markets Quant",
+      "company": "Wise",
+      "companyDomain": "wise.com",
+      "location": "London, , United Kingdom",
+      "remoteType": "hybrid",
+      "salaryMin": 115000,
+      "salaryMax": 161000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T14:59:07.167Z",
+      "firstIndexedAt": "2026-08-19T15:02:29.337Z",
+      "url": "https://www.dreamworkhq.com/job/35d8bdc8-dde2-4116-b7fc-dac4f7794f56?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "322bf459-9ea4-4b76-bf0a-c16e1a78007f",
@@ -7895,19 +7970,19 @@
       "url": "https://www.dreamworkhq.com/job/6071a170-f52e-46c6-bcbc-1c45234dae9b?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "a01afb0a-0fc2-47c2-93b5-94ce0cfbfe29",
+      "id": "a72f18ed-93b7-4b45-9875-4b32a374b3e5",
       "title": "Data Analyst",
       "company": "Qureosinc",
       "companyDomain": "qureos.com",
-      "location": "Los Angeles, US",
-      "remoteType": "remote",
+      "location": "Orlando, US",
+      "remoteType": "onsite",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-17T19:49:43.000Z",
+      "postedAt": "2026-07-23T08:23:57.000Z",
       "firstIndexedAt": "2026-08-19T14:36:38.904Z",
-      "url": "https://www.dreamworkhq.com/job/a01afb0a-0fc2-47c2-93b5-94ce0cfbfe29?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/a72f18ed-93b7-4b45-9875-4b32a374b3e5?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "c33bf25c-d7b6-473d-b39f-895fed36b4eb",
@@ -7940,36 +8015,6 @@
       "url": "https://www.dreamworkhq.com/job/f1fda54d-b6da-4e07-ab88-23efbf502d4a?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "25fc3084-50f0-4136-aabf-8694cf139842",
-      "title": "Remote Data Analyst",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Toronto, Canada",
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-20T07:01:01.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:38.904Z",
-      "url": "https://www.dreamworkhq.com/job/25fc3084-50f0-4136-aabf-8694cf139842?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "a72f18ed-93b7-4b45-9875-4b32a374b3e5",
-      "title": "Data Analyst",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": "Orlando, US",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-07-23T08:23:57.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:38.904Z",
-      "url": "https://www.dreamworkhq.com/job/a72f18ed-93b7-4b45-9875-4b32a374b3e5?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "7b66fba0-8568-4035-8de3-d08a431c2b69",
       "title": "Remote Data Analyst",
       "company": "Qureosinc",
@@ -8000,6 +8045,21 @@
       "url": "https://www.dreamworkhq.com/job/341d1b81-66e9-4246-82a7-40dc750a4f19?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
+      "id": "eed93cd1-40b2-48d7-ad45-44a932b7cb6f",
+      "title": "Data Analyst (Remote) (UNITED STATES OF AMERICA)",
+      "company": "Qureosinc",
+      "companyDomain": "qureos.com",
+      "location": null,
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-14T13:33:44.000Z",
+      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
+      "url": "https://www.dreamworkhq.com/job/eed93cd1-40b2-48d7-ad45-44a932b7cb6f?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
       "id": "233f5e5b-3d4c-4109-8b35-bcf5253e13c3",
       "title": "Customer Data Anaylst",
       "company": "Qureosinc",
@@ -8028,21 +8088,6 @@
       "postedAt": "2026-08-15T12:18:49.000Z",
       "firstIndexedAt": "2026-08-19T14:36:20.667Z",
       "url": "https://www.dreamworkhq.com/job/31c6c358-2261-4310-a469-789e36c2563a?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "f9f88395-2853-4d75-b8e1-92833a8f6d45",
-      "title": "Data Analyst (Remote) (UNITED STATES OF AMERICA)",
-      "company": "Qureosinc",
-      "companyDomain": "qureos.com",
-      "location": null,
-      "remoteType": "remote",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-15T16:41:34.000Z",
-      "firstIndexedAt": "2026-08-19T14:36:20.667Z",
-      "url": "https://www.dreamworkhq.com/job/f9f88395-2853-4d75-b8e1-92833a8f6d45?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "7cc49c7d-2549-467d-9079-b487d17a7252",
@@ -8270,21 +8315,6 @@
       "url": "https://www.dreamworkhq.com/job/e1eb8c8d-3b4a-43af-910b-cbb200d275a1?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "24ab5a3a-5233-49be-b9bf-ef286fcedfeb",
-      "title": "Data Ontology & Standards Engineer/Scientist",
-      "company": "Apogeeusa",
-      "companyDomain": "apogeeusa.com",
-      "location": "Wright Patterson AFB, OH, US",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-18T04:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T13:47:54.513Z",
-      "url": "https://www.dreamworkhq.com/job/24ab5a3a-5233-49be-b9bf-ef286fcedfeb?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "ebe48c43-77d4-41ba-9ed6-ff1ccc61f178",
       "title": "Data and AI Specialist - Agentic Tax Processes",
       "company": "EY",
@@ -8345,21 +8375,6 @@
       "url": "https://www.dreamworkhq.com/job/c7b6efc3-aed8-434f-86ec-0fa1ce72d449?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "c9c71455-5d0c-4c42-bd29-349432ad42fc",
-      "title": "Consultant - Data and Analytics Advisory 4A",
-      "company": "Genpact",
-      "companyDomain": "genpact.com",
-      "location": "1401-G-India: 1-6 FL, Surya Park, STPI, Bangalore",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T19:30:38.382Z",
-      "firstIndexedAt": "2026-08-19T13:21:55.032Z",
-      "url": "https://www.dreamworkhq.com/job/c9c71455-5d0c-4c42-bd29-349432ad42fc?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "d5e1386f-dc41-41eb-a6da-fda79b14f3b7",
       "title": "Lead Analyst - BI, Reporting and Data Visualization 4C",
       "company": "Genpact",
@@ -8373,6 +8388,21 @@
       "postedAt": "2026-08-19T19:30:38.402Z",
       "firstIndexedAt": "2026-08-19T13:21:55.032Z",
       "url": "https://www.dreamworkhq.com/job/d5e1386f-dc41-41eb-a6da-fda79b14f3b7?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "c9c71455-5d0c-4c42-bd29-349432ad42fc",
+      "title": "Consultant - Data and Analytics Advisory 4A",
+      "company": "Genpact",
+      "companyDomain": "genpact.com",
+      "location": "1401-G-India: 1-6 FL, Surya Park, STPI, Bangalore",
+      "remoteType": "hybrid",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T19:30:38.382Z",
+      "firstIndexedAt": "2026-08-19T13:21:55.032Z",
+      "url": "https://www.dreamworkhq.com/job/c9c71455-5d0c-4c42-bd29-349432ad42fc?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "53339ef4-5d7e-4830-8a69-4360f2151e2f",
@@ -8450,11 +8480,11 @@
       "url": "https://www.dreamworkhq.com/job/9a870b79-2582-42d4-842f-919fdfe742a6?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "50c34dab-51ec-4828-9015-4806e0fa5f8e",
+      "id": "7427e985-42ed-4a6c-86ce-95fd844bfd14",
       "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
       "companyDomain": "itolrecruit.com",
-      "location": "LE19BG",
+      "location": "G741AB",
       "remoteType": "remote",
       "salaryMin": 38000,
       "salaryMax": 83000,
@@ -8462,7 +8492,22 @@
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T13:18:14.353Z",
-      "url": "https://www.dreamworkhq.com/job/50c34dab-51ec-4828-9015-4806e0fa5f8e?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/7427e985-42ed-4a6c-86ce-95fd844bfd14?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "f2ccd764-829a-4415-ab1f-47491d45b8a3",
+      "title": "Trainee Data Analyst",
+      "company": "ITOL Recruit",
+      "companyDomain": "itolrecruit.com",
+      "location": "W69JU",
+      "remoteType": null,
+      "salaryMin": 38000,
+      "salaryMax": 83000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T13:18:14.353Z",
+      "url": "https://www.dreamworkhq.com/job/f2ccd764-829a-4415-ab1f-47491d45b8a3?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "b7df827d-362e-4a65-9d89-d880eb8320e4",
@@ -8480,21 +8525,6 @@
       "url": "https://www.dreamworkhq.com/job/b7df827d-362e-4a65-9d89-d880eb8320e4?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "7427e985-42ed-4a6c-86ce-95fd844bfd14",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "companyDomain": "itolrecruit.com",
-      "location": "G741AB",
-      "remoteType": "remote",
-      "salaryMin": 38000,
-      "salaryMax": 83000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T13:18:14.353Z",
-      "url": "https://www.dreamworkhq.com/job/7427e985-42ed-4a6c-86ce-95fd844bfd14?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "c6635102-de0c-4871-b080-87c98795edd1",
       "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
@@ -8510,19 +8540,34 @@
       "url": "https://www.dreamworkhq.com/job/c6635102-de0c-4871-b080-87c98795edd1?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "f2ccd764-829a-4415-ab1f-47491d45b8a3",
-      "title": "Trainee Data Analyst",
+      "id": "50c34dab-51ec-4828-9015-4806e0fa5f8e",
+      "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
       "companyDomain": "itolrecruit.com",
-      "location": "W69JU",
-      "remoteType": null,
+      "location": "LE19BG",
+      "remoteType": "remote",
       "salaryMin": 38000,
       "salaryMax": 83000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T13:18:14.353Z",
-      "url": "https://www.dreamworkhq.com/job/f2ccd764-829a-4415-ab1f-47491d45b8a3?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/50c34dab-51ec-4828-9015-4806e0fa5f8e?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "b34c8f62-74a3-49cb-988a-e4379c7241b4",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "companyDomain": "itolrecruit.com",
+      "location": "SY38HQ",
+      "remoteType": "remote",
+      "salaryMin": 38000,
+      "salaryMax": 83000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T13:18:12.035Z",
+      "url": "https://www.dreamworkhq.com/job/b34c8f62-74a3-49cb-988a-e4379c7241b4?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "900d29d1-d4d4-494a-bd56-6a9fcdb25270",
@@ -8555,36 +8600,6 @@
       "url": "https://www.dreamworkhq.com/job/1e243bf3-67db-430d-be66-656452afd57a?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "91dc759b-1768-4482-95cb-d5a9800aa874",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "companyDomain": "itolrecruit.com",
-      "location": "S702TA",
-      "remoteType": null,
-      "salaryMin": 38000,
-      "salaryMax": 83000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T13:18:12.035Z",
-      "url": "https://www.dreamworkhq.com/job/91dc759b-1768-4482-95cb-d5a9800aa874?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "b34c8f62-74a3-49cb-988a-e4379c7241b4",
-      "title": "Data Analyst Trainee",
-      "company": "ITOL Recruit",
-      "companyDomain": "itolrecruit.com",
-      "location": "SY38HQ",
-      "remoteType": "remote",
-      "salaryMin": 38000,
-      "salaryMax": 83000,
-      "salaryPeriod": "annual",
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T13:18:12.035Z",
-      "url": "https://www.dreamworkhq.com/job/b34c8f62-74a3-49cb-988a-e4379c7241b4?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "21cfd7cc-1370-4c65-85d4-13c89a149b90",
       "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
@@ -8600,19 +8615,19 @@
       "url": "https://www.dreamworkhq.com/job/21cfd7cc-1370-4c65-85d4-13c89a149b90?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "59eabf8e-5c30-4d8f-9873-1433673d745d",
+      "id": "91dc759b-1768-4482-95cb-d5a9800aa874",
       "title": "Data Analyst Trainee",
       "company": "ITOL Recruit",
       "companyDomain": "itolrecruit.com",
-      "location": "HP202QP",
+      "location": "S702TA",
       "remoteType": null,
       "salaryMin": 38000,
       "salaryMax": 83000,
       "salaryPeriod": "annual",
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-19T00:00:00.000Z",
-      "firstIndexedAt": "2026-08-19T13:18:09.609Z",
-      "url": "https://www.dreamworkhq.com/job/59eabf8e-5c30-4d8f-9873-1433673d745d?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "firstIndexedAt": "2026-08-19T13:18:12.035Z",
+      "url": "https://www.dreamworkhq.com/job/91dc759b-1768-4482-95cb-d5a9800aa874?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "0924b568-55ad-47a9-ae56-e4c38d6e528a",
@@ -8628,6 +8643,21 @@
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T13:18:09.609Z",
       "url": "https://www.dreamworkhq.com/job/0924b568-55ad-47a9-ae56-e4c38d6e528a?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "59eabf8e-5c30-4d8f-9873-1433673d745d",
+      "title": "Data Analyst Trainee",
+      "company": "ITOL Recruit",
+      "companyDomain": "itolrecruit.com",
+      "location": "HP202QP",
+      "remoteType": null,
+      "salaryMin": 38000,
+      "salaryMax": 83000,
+      "salaryPeriod": "annual",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T00:00:00.000Z",
+      "firstIndexedAt": "2026-08-19T13:18:09.609Z",
+      "url": "https://www.dreamworkhq.com/job/59eabf8e-5c30-4d8f-9873-1433673d745d?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "431c4236-422e-4c5e-a1e5-9de3592d90a8",
@@ -8660,19 +8690,19 @@
       "url": "https://www.dreamworkhq.com/job/794add83-5f92-46e6-a275-86f66e700a43?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "aa08fd09-1272-41c6-9baf-41a551b68ee7",
-      "title": "Senior Data Visualisation Specialist",
+      "id": "7ec5ed46-54b7-4379-9dfb-452b99e0c061",
+      "title": "Data Manager | FCU Technology",
       "company": "Pwc",
       "companyDomain": "pwc.com",
-      "location": "Lviv",
-      "remoteType": "remote",
+      "location": "Warszawa",
+      "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T19:36:29.622Z",
+      "aiRoleKind": "ai_enabled",
+      "postedAt": "2026-08-19T19:36:29.566Z",
       "firstIndexedAt": "2026-08-19T13:16:26.988Z",
-      "url": "https://www.dreamworkhq.com/job/aa08fd09-1272-41c6-9baf-41a551b68ee7?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/7ec5ed46-54b7-4379-9dfb-452b99e0c061?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "ac58e9f6-f60b-405e-8d1c-e85014e4d7cd",
@@ -8688,6 +8718,21 @@
       "postedAt": "2026-08-19T19:36:29.264Z",
       "firstIndexedAt": "2026-08-19T13:16:26.988Z",
       "url": "https://www.dreamworkhq.com/job/ac58e9f6-f60b-405e-8d1c-e85014e4d7cd?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "aa08fd09-1272-41c6-9baf-41a551b68ee7",
+      "title": "Senior Data Visualisation Specialist",
+      "company": "Pwc",
+      "companyDomain": "pwc.com",
+      "location": "Lviv",
+      "remoteType": "remote",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T19:36:29.622Z",
+      "firstIndexedAt": "2026-08-19T13:16:26.988Z",
+      "url": "https://www.dreamworkhq.com/job/aa08fd09-1272-41c6-9baf-41a551b68ee7?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "1fdc5b0f-77cd-4b94-be3c-eb636a240a9e",
@@ -8720,21 +8765,6 @@
       "url": "https://www.dreamworkhq.com/job/14aab0b7-3d10-4ccf-8e1d-c75d1e6c4813?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "263ce19a-5b73-499c-9db4-a0797e3504d7",
-      "title": "Senior Data Journalist",
-      "company": "Dmgmedia",
-      "companyDomain": "dmgmedia.com",
-      "location": "London",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T08:52:59.000Z",
-      "firstIndexedAt": "2026-08-19T13:15:33.555Z",
-      "url": "https://www.dreamworkhq.com/job/263ce19a-5b73-499c-9db4-a0797e3504d7?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
       "id": "0318123c-af99-41c0-bff0-d67bf448a2c0",
       "title": "Data Journalist",
       "company": "Dmgmedia",
@@ -8748,6 +8778,21 @@
       "postedAt": "2026-08-19T10:07:55.000Z",
       "firstIndexedAt": "2026-08-19T13:15:33.555Z",
       "url": "https://www.dreamworkhq.com/job/0318123c-af99-41c0-bff0-d67bf448a2c0?utm_source=github&utm_campaign=gh-data-science-jobs"
+    },
+    {
+      "id": "263ce19a-5b73-499c-9db4-a0797e3504d7",
+      "title": "Senior Data Journalist",
+      "company": "Dmgmedia",
+      "companyDomain": "dmgmedia.com",
+      "location": "London",
+      "remoteType": "onsite",
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryPeriod": null,
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T08:52:59.000Z",
+      "firstIndexedAt": "2026-08-19T13:15:33.555Z",
+      "url": "https://www.dreamworkhq.com/job/263ce19a-5b73-499c-9db4-a0797e3504d7?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "53a549f4-4833-4c98-bf1e-0dd659dd4da3",
@@ -8825,34 +8870,34 @@
       "url": "https://www.dreamworkhq.com/job/85a3c44d-c732-4ae1-8333-3f1066f8ff57?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "c5096722-a084-446f-881c-19754143baa0",
+      "id": "1219a871-fc9d-4bda-906b-d89bdc62a843",
       "title": "data architect",
       "company": "SereneAid",
       "companyDomain": "sereneaid.com",
       "location": "Edmonton (AB)",
-      "remoteType": "onsite",
+      "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
       "aiRoleKind": "non_ai",
       "postedAt": "2026-08-19T00:00:00.000Z",
       "firstIndexedAt": "2026-08-19T12:34:14.103Z",
-      "url": "https://www.dreamworkhq.com/job/c5096722-a084-446f-881c-19754143baa0?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/1219a871-fc9d-4bda-906b-d89bdc62a843?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "f9ec2d32-bd73-476f-b3cc-52a12f6df7eb",
-      "title": "Senior Data Engineer Consultant ",
+      "id": "4a6e69d9-2774-421d-92df-d257dc8a5ee6",
+      "title": "Consultant - Analytics Engineer",
       "company": "Sia",
       "companyDomain": "sia-partners.com",
-      "location": "Brussel, , Belgium",
-      "remoteType": "hybrid",
+      "location": "Paris, IDF, France",
+      "remoteType": null,
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T11:14:26.007Z",
+      "aiRoleKind": "non_ai",
+      "postedAt": "2026-08-19T07:35:39.213Z",
       "firstIndexedAt": "2026-08-19T12:30:56.124Z",
-      "url": "https://www.dreamworkhq.com/job/f9ec2d32-bd73-476f-b3cc-52a12f6df7eb?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/4a6e69d9-2774-421d-92df-d257dc8a5ee6?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "6e6620f0-ee80-429c-abf3-96f3e6d578fa",
@@ -8870,19 +8915,19 @@
       "url": "https://www.dreamworkhq.com/job/6e6620f0-ee80-429c-abf3-96f3e6d578fa?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
-      "id": "4a6e69d9-2774-421d-92df-d257dc8a5ee6",
-      "title": "Consultant - Analytics Engineer",
+      "id": "f9ec2d32-bd73-476f-b3cc-52a12f6df7eb",
+      "title": "Senior Data Engineer Consultant ",
       "company": "Sia",
       "companyDomain": "sia-partners.com",
-      "location": "Paris, IDF, France",
-      "remoteType": null,
+      "location": "Brussel, , Belgium",
+      "remoteType": "hybrid",
       "salaryMin": null,
       "salaryMax": null,
       "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T07:35:39.213Z",
+      "aiRoleKind": "ai_explicit",
+      "postedAt": "2026-08-19T11:14:26.007Z",
       "firstIndexedAt": "2026-08-19T12:30:56.124Z",
-      "url": "https://www.dreamworkhq.com/job/4a6e69d9-2774-421d-92df-d257dc8a5ee6?utm_source=github&utm_campaign=gh-data-science-jobs"
+      "url": "https://www.dreamworkhq.com/job/f9ec2d32-bd73-476f-b3cc-52a12f6df7eb?utm_source=github&utm_campaign=gh-data-science-jobs"
     },
     {
       "id": "60dac8be-142a-4ecc-be8b-68905119b69f",
@@ -8958,51 +9003,6 @@
       "postedAt": "2026-08-17T19:21:19.431Z",
       "firstIndexedAt": "2026-08-19T12:14:29.408Z",
       "url": "https://www.dreamworkhq.com/job/98de9c7c-39de-41bc-aeeb-1cbdbf7ad0c2?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "f8004d94-2134-4657-9756-9a77c897399a",
-      "title": "​​Senior Associate, Central Monitor, Data Surveillance, Clinical Data Sciences​",
-      "company": "Pfizer Digital",
-      "companyDomain": "pfizer.com",
-      "location": "Greece - Thessaloniki Pylaia",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "non_ai",
-      "postedAt": "2026-08-19T22:00:29.561Z",
-      "firstIndexedAt": "2026-08-19T12:13:25.195Z",
-      "url": "https://www.dreamworkhq.com/job/f8004d94-2134-4657-9756-9a77c897399a?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "c9be220a-0d34-411b-93bb-9b1ed9613611",
-      "title": "Senior Data Scientist (Analytics)",
-      "company": "Grab",
-      "companyDomain": "grab.com",
-      "location": "Jakarta, , Indonesia",
-      "remoteType": "onsite",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_explicit",
-      "postedAt": "2026-08-19T03:45:42.066Z",
-      "firstIndexedAt": "2026-08-19T12:00:47.872Z",
-      "url": "https://www.dreamworkhq.com/job/c9be220a-0d34-411b-93bb-9b1ed9613611?utm_source=github&utm_campaign=gh-data-science-jobs"
-    },
-    {
-      "id": "927501c4-cb13-4f86-9225-6dae8d59cb21",
-      "title": "Data Analyst",
-      "company": "Planet Labs",
-      "companyDomain": "planet.com",
-      "location": "Berlin, Germany",
-      "remoteType": "hybrid",
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryPeriod": null,
-      "aiRoleKind": "ai_enabled",
-      "postedAt": "2026-08-19T10:14:37.000Z",
-      "firstIndexedAt": "2026-08-19T12:00:23.683Z",
-      "url": "https://www.dreamworkhq.com/job/927501c4-cb13-4f86-9225-6dae8d59cb21?utm_source=github&utm_campaign=gh-data-science-jobs"
     }
   ]
 }
